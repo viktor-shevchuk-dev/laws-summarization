@@ -1,6 +1,6 @@
 import re
 import difflib
-from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.tokenize import sent_tokenize
 
 '''
 Find the matching substrings in 2 strings.
